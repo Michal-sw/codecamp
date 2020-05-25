@@ -1,0 +1,142 @@
+#main {
+
+}
+#page-content {
+    background-color: sienna;
+    margin: 0 6vw 6vw;
+    border-right: solid black;
+    border-left: solid black;
+    border-bottom: solid black;
+}
+body {
+    background-image: url("https://i.pinimg.com/originals/a9/e2/50/a9e2503b55b704870619bfd93a3153e0.jpg"), url("https://cutewallpaper.org/21/uncharted-wallpaper-hd/1920x1080-px-Resolution-DSC100701391.jpg-Uncharted-Wallpapers.jpg");
+  
+ 
+}
+
+
+
+#nav-list {
+    text-align: center;
+    font-family: 'Cinzel', serif;
+}
+#nav-list a {
+    text-decoration: none;
+    color: black;
+    font-size: 2vw;
+}
+#nav-list ul {
+    list-style-type: none;
+    overflow: hidden;
+    padding: 0 0 0 0;
+    margin: 6vw 0 0 0;
+    border-right: 2px solid black;
+    border-left: 2px solid black;
+
+}
+
+#nav-list li {
+    float: left;
+    padding: 2vw 0 2vw 0;
+    width: 25%;
+    font-size: 2vw;
+    background-color: rgba(231, 193, 111, 0.959);
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+#intro-section {
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    font-size: 2vw;
+    }
+#sic-parvis-magna {
+    margin-top: -3vw;
+    font-family: 'Charm', cursive;
+}
+
+#drake-intro {
+    margin-left: 15vw;
+    margin-right: 16vw;
+    padding-left: 1vw;
+    padding-top: 1vw;
+    padding-right: 1vw;
+    padding-bottom: 1vw;
+    background-color:rgba(2, 2, 2, 0.178);
+    text-align: center;
+    color: rgba(231, 193, 111, 0.959);
+    border: solid black;
+    font-size: 1.3vw;
+}
+
+.text-game {
+    text-align: center;
+    border: solid black;
+    font-size: 1.3vw;
+    float: right;
+    margin-right: 7vw;
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    width: 30%;
+}
+#first-game {
+    margin-top: 10vw;
+    color: rgba(231, 193, 111, 0.959);
+    background-color:rgba(2, 2, 2, 0.178);
+    border-top: solid rgb(75, 40, 8);
+
+}
+#first-game p {
+    background-color: rgba(107, 73, 24, 0.438);
+    margin-top: 3vw;
+}
+#second-game {
+background-color: rgb(36, 51, 68);
+color: #e90505;
+border-top: solid rgb(88, 53, 5);
+
+}
+#second-game p {
+    background-color: rgb(21, 32, 43);
+    margin-top: 4vw;
+}
+#third-game {
+background-color: rgba(255, 209, 124, 0.801);
+color: rgb(100, 34, 4);
+border-top: solid rgb(3, 25, 66);
+
+}
+#third-game p {
+margin-top: 5vw;
+background-color: rgba(228, 191, 144, 0.712);
+}
+
+#fourth-game {
+    border-top: solid rgba(245, 225, 160, 0.61);
+    color: rgb(0, 0, 0);
+    background-color: rgb(40, 80, 80);
+
+}
+#fourth-game p {
+margin-top: 4vw;
+background-color: rgb(219, 113, 64);
+}
+
+img {
+        width: 50%;
+        border-left: 2px solid black;
+        border-right: 2px solid black;
+        border-top: 2px solid black;
+        border-bottom: 2px solid black;
+
+    }
+
+#ending-credits {
+   border-top: solid black;
+   font-size: 1vw;
+}
+#text-info {
+    
+}
