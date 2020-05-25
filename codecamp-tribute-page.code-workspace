@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../Odin-Project-test"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "codecamp",
+		"liveServer.settings.port": 5501
+	}
+}
